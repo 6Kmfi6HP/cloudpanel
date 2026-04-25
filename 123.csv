@@ -1,0 +1,11 @@
+name,ssh,127.0.0.1,22,username,password,privateKey,passphrase,description,tags
+ub-4gb-sgp1-19,ssh,128.199.179.71,22,harada@rtt.icu,,,,"Ubuntu 22.04 x64 instance in Singapore",2cpu|4gb|running
+ub-4gb-sgp1-20,ssh,128.199.170.18,22,harada@rtt.icu,,,,"Ubuntu 22.04 x64 instance in Singapore",2cpu|4gb|running
+ub-1gb-sgp1-12,ssh,128.199.240.195,22,harada@rtt.icu,,,,"Ubuntu 22.04 x64 instance in Singapore",1cpu|1gb|running
+ub-1gb-sgp1-13,ssh,128.199.252.54,22,harada@rtt.icu,,,,"Ubuntu 22.04 x64 instance in Singapore",1cpu|1gb|running
+ub-1gb-sgp1-14,ssh,128.199.227.107,22,harada@rtt.icu,,,,"Ubuntu 22.04 x64 instance in Singapore",1cpu|1gb|running
+ub-1gb-sgp1-15,ssh,128.199.209.241,22,harada@rtt.icu,,,,"Ubuntu 22.04 x64 instance in Singapore",1cpu|1gb|running
+ub-1gb-sgp1-16,ssh,128.199.242.159,22,harada@rtt.icu,,,,"Ubuntu 22.04 x64 instance in Singapore",1cpu|1gb|running
+ub-1gb-sgp1-17,ssh,128.199.196.44,22,harada@rtt.icu,,,,"Ubuntu 22.04 x64 instance in Singapore",1cpu|1gb|running
+ub-1gb-sgp1-18,ssh,128.199.219.78,22,harada@rtt.icu,,,,"Ubuntu 22.04 x64 instance in Singapore",1cpu|1gb|running
+ub-1gb-sgp1-11,ssh,128.199.210.238,22,harada@rtt.icu,,,,"Ubuntu 22.04 x64 instance in Singapore",1cpu|1gb|running
